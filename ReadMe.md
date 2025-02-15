@@ -37,6 +37,12 @@ for index, table in enumerate(tables):
 ```
 ## **4. Upload Extracted Tables To Power BI Desktop:**
 
+**4.1. Get data from Power BI using Text/CSV:**
+![alt text](Figs/F2.PNG)
+
+**4.2. Transform tables Into power query for cleaning and preparing structure the data:**
+
+![alt text](Figs/F1.PNG)
 
 ## **5. Claening & Preparing The Data In Power Query:**
 
@@ -44,4 +50,4 @@ for index, table in enumerate(tables):
 
 ## **7. Dashboards:**
 
-# **8. Analysis:**
+## **8. Analysis:**
